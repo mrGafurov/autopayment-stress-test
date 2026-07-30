@@ -1,4 +1,4 @@
-# K6 Stress Testing Project
+# Autopayment stress testing
 
 This project contains **Load Testing** and **Stress Testing** scenarios using **k6**.
 
